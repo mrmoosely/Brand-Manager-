@@ -21,7 +21,7 @@ except (KeyError, FileNotFoundError):
     api_key = os.getenv("ANTHROPIC_API_KEY")
 
 if not api_key:
-    st.error("⚠️ API key not found! Please add ANTHROPIC_API_KEY to Streamlit secrets or .env file")
+    st.error(⚠️ API key not found! Please add ANTHROPIC_API_KEY to Streamlit secrets or .env file")
     st.stop()
 
 sys.path.append(str(Path(__file__).parent))
@@ -484,7 +484,7 @@ def show_admin_page():
     # Simple password protection
     admin_password = st.text_input("Admin Password", type="password")
     
-    if admin_password != "admin123":  # Change this!
+    if admin_password != "Th3m00s389!":  # Change this!
         st.warning("Enter admin password")
         return
     
