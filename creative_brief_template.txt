@@ -1,0 +1,179 @@
+CREATIVE BRIEF TEMPLATE
+=======================
+
+Project Name: [CAMPAIGN_NAME]
+Date: [DATE]
+Brand: [BRAND]
+Prepared by: [YOUR_NAME]
+
+---
+
+1. BACKGROUND / CONTEXT
+What is the business situation that requires this work?
+[BACKGROUND]
+
+Current market position:
+[MARKET_POSITION]
+
+Key challenges or opportunities:
+[CHALLENGES]
+
+---
+
+2. BUSINESS OBJECTIVE
+What do we need this work to achieve?
+[OBJECTIVE]
+
+Success metrics:
+- [METRIC_1]
+- [METRIC_2]
+- [METRIC_3]
+
+---
+
+3. MARKETING OBJECTIVE
+What marketing goal supports the business objective?
+[MARKETING_OBJECTIVE]
+
+KPIs:
+- [KPI_1]
+- [KPI_2]
+
+---
+
+4. TARGET AUDIENCE
+Who are we talking to?
+
+Demographics:
+- Age: [AGE_RANGE]
+- Gender: [GENDER]
+- Income: [INCOME]
+- Location: [LOCATION]
+
+Psychographics:
+- Lifestyle: [LIFESTYLE]
+- Values: [VALUES]
+- Behaviors: [BEHAVIORS]
+- Media habits: [MEDIA]
+
+Target size/volume opportunity:
+[TARGET_SIZE]
+
+---
+
+5. KEY CONSUMER INSIGHT
+What human truth will this work tap into?
+
+The insight (one clear statement):
+[INSIGHT]
+
+Why this matters to the target:
+[WHY_IT_MATTERS]
+
+Evidence supporting this insight:
+[EVIDENCE]
+
+---
+
+6. SINGLE-MINDED PROPOSITION
+What is the ONE thing we want to communicate?
+
+Proposition:
+[PROPOSITION]
+
+Why should they believe us?
+[REASON_TO_BELIEVE]
+
+---
+
+7. SUPPORT POINTS
+What rational and emotional benefits support the proposition?
+
+Rational benefits:
+- [RATIONAL_1]
+- [RATIONAL_2]
+
+Emotional benefits:
+- [EMOTIONAL_1]
+- [EMOTIONAL_2]
+
+---
+
+8. TONE & MANNER
+How should the brand show up?
+
+Brand voice:
+[VOICE]
+
+Tone descriptors:
+- [TONE_1]
+- [TONE_2]
+- [TONE_3]
+
+Visual style:
+[VISUAL_STYLE]
+
+---
+
+9. MANDATORIES / GUARDRAILS
+What MUST be included or avoided?
+
+Must include:
+- [MUST_INCLUDE_1]
+- [MUST_INCLUDE_2]
+
+Must NOT include:
+- [MUST_NOT_1]
+- [MUST_NOT_2]
+
+Legal/regulatory requirements:
+[LEGAL]
+
+Brand guidelines to follow:
+[GUIDELINES]
+
+---
+
+10. MEDIA / CHANNELS
+Where will this show up?
+
+Primary channels:
+- [CHANNEL_1]
+- [CHANNEL_2]
+
+Secondary channels:
+- [CHANNEL_3]
+
+Format requirements:
+[FORMATS]
+
+---
+
+11. BUDGET & TIMING
+
+Production budget: [BUDGET]
+
+Timeline:
+- Brief due: [BRIEF_DATE]
+- Concepts due: [CONCEPT_DATE]
+- Production: [PRODUCTION_DATE]
+- Launch date: [LAUNCH_DATE]
+
+---
+
+12. KEY STAKEHOLDERS
+
+Internal approvers:
+- [STAKEHOLDER_1]
+- [STAKEHOLDER_2]
+
+Agency partners:
+- [AGENCY_1]
+- [AGENCY_2]
+
+---
+
+APPROVAL SIGNATURES
+Brand Manager: _________________ Date: _______
+Marketing Director: _________________ Date: _______
+CMO: _________________ Date: _______

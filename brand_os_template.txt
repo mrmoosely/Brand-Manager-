@@ -1,0 +1,318 @@
+BRAND OPERATING SYSTEM (BRAND OS)
+==================================
+
+Brand Name: [BRAND_NAME]
+Category: [CATEGORY]
+Date: [DATE]
+Owner: [BRAND_MANAGER]
+
+---
+
+1. BRAND PURPOSE
+Why does this brand exist beyond making money?
+
+Purpose Statement:
+[PURPOSE - One sentence that captures why the brand exists in the world]
+
+How we live this purpose:
+- [ACTION_1]
+- [ACTION_2]
+- [ACTION_3]
+
+---
+
+2. BRAND VISION
+Where is this brand going? What's the aspirational future?
+
+Vision Statement:
+[VISION - Inspiring picture of the future, 3-5 years out]
+
+What success looks like:
+- [SUCCESS_METRIC_1]
+- [SUCCESS_METRIC_2]
+- [SUCCESS_METRIC_3]
+
+---
+
+3. BRAND MISSION
+What does this brand do? How does it fulfill its purpose?
+
+Mission Statement:
+[MISSION - Clear statement of what the brand does for consumers]
+
+Core activities:
+- [ACTIVITY_1]
+- [ACTIVITY_2]
+- [ACTIVITY_3]
+
+---
+
+4. BRAND VALUES
+What does this brand stand for? What are the non-negotiables?
+
+Core Values:
+1. [VALUE_1]: [Description of what this means in practice]
+2. [VALUE_2]: [Description]
+3. [VALUE_3]: [Description]
+4. [VALUE_4]: [Description]
+
+How values show up in daily decisions:
+[VALUE_EXAMPLES]
+
+---
+
+5. BRAND PERSONALITY
+If this brand were a person, who would they be?
+
+Personality dimensions:
+- [DIMENSION_1]: [Scale position, e.g., "Sophisticated" vs "Down-to-earth"]
+- [DIMENSION_2]: [Scale position]
+- [DIMENSION_3]: [Scale position]
+- [DIMENSION_4]: [Scale position]
+
+Personality descriptors:
+- [ADJECTIVE_1]
+- [ADJECTIVE_2]
+- [ADJECTIVE_3]
+
+Celebrity/character archetype:
+[ARCHETYPE - e.g., "Like George Clooney meets Anthony Bourdain"]
+
+Tone of voice:
+[TONE - How the brand speaks]
+
+---
+
+6. TARGET AUDIENCE
+Who is this brand for?
+
+PRIMARY TARGET
+Demographics:
+- Age: [AGE]
+- Gender: [GENDER]
+- Income: [INCOME]
+- Education: [EDUCATION]
+- Location: [LOCATION]
+- Occupation: [OCCUPATION]
+
+Psychographics:
+- Life stage: [LIFE_STAGE]
+- Values: [VALUES]
+- Attitudes: [ATTITUDES]
+- Interests: [INTERESTS]
+- Media consumption: [MEDIA]
+
+Behavioral:
+- Category usage: [USAGE]
+- Shopping behavior: [SHOPPING]
+- Brand relationship: [RELATIONSHIP]
+
+Target persona:
+Name: [PERSONA_NAME]
+Bio: [Short narrative description of typical consumer]
+
+SECONDARY TARGET(S)
+[Brief description of secondary audiences]
+
+---
+
+7. CATEGORY FRAMEWORK
+Where does this brand compete?
+
+Category definition:
+[CATEGORY - How we define the competitive set]
+
+Key competitors:
+1. [COMPETITOR_1]: [Market position]
+2. [COMPETITOR_2]: [Market position]
+3. [COMPETITOR_3]: [Market position]
+
+Competitive advantages:
+- [ADVANTAGE_1]
+- [ADVANTAGE_2]
+
+Competitive vulnerabilities:
+- [VULNERABILITY_1]
+- [VULNERABILITY_2]
+
+---
+
+8. BRAND POSITIONING
+How is this brand uniquely positioned?
+
+Positioning Statement:
+For [TARGET AUDIENCE]
+Who [NEED/OCCASION]
+[BRAND] is the [CATEGORY]
+That [BENEFIT/POINT OF DIFFERENCE]
+Because [REASON TO BELIEVE]
+
+Frame of reference:
+[CATEGORY CONTEXT - What category are we competing in?]
+
+Point of Difference (POD):
+[UNIQUE BENEFIT - What makes us different/better?]
+
+Reasons to Believe (RTBs):
+- [RTB_1 - Proof point]
+- [RTB_2 - Proof point]
+- [RTB_3 - Proof point]
+
+---
+
+9. BRAND PROMISE
+What do we promise to deliver to consumers?
+
+Promise Statement:
+[PROMISE - One sentence commitment to consumers]
+
+Functional benefits:
+- [FUNCTIONAL_1]
+- [FUNCTIONAL_2]
+
+Emotional benefits:
+- [EMOTIONAL_1]
+- [EMOTIONAL_2]
+
+Self-expressive benefits:
+- [EXPRESSIVE_1]
+- [EXPRESSIVE_2]
+
+How we deliver on the promise:
+[DELIVERY_MECHANISM]
+
+---
+
+10. KEY MESSAGES
+What are the core messages that bring our positioning to life?
+
+Master brand message:
+[MASTER_MESSAGE - Overarching narrative]
+
+Supporting messages:
+1. [MESSAGE_1]: [For specific audience or occasion]
+2. [MESSAGE_2]: [For specific audience or occasion]
+3. [MESSAGE_3]: [For specific audience or occasion]
+
+Proof points:
+- [PROOF_1]
+- [PROOF_2]
+- [PROOF_3]
+
+Messaging hierarchy:
+Primary → [PRIMARY_MESSAGE]
+Secondary → [SECONDARY_MESSAGE]
+Tertiary → [TERTIARY_MESSAGE]
+
+---
+
+11. VISUAL IDENTITY
+How does this brand look?
+
+Logo:
+[LOGO_DESCRIPTION]
+
+Color palette:
+- Primary: [COLOR_1]
+- Secondary: [COLOR_2]
+- Accent: [COLOR_3]
+
+Typography:
+- Primary font: [FONT_1]
+- Secondary font: [FONT_2]
+
+Visual style:
+[STYLE_DESCRIPTION - e.g., "Clean, modern, aspirational"]
+
+Imagery approach:
+[IMAGE_STYLE - What kinds of photos/illustrations?]
+
+Key visual elements:
+- [ELEMENT_1]
+- [ELEMENT_2]
+
+---
+
+12. VERBAL IDENTITY
+How does this brand sound?
+
+Writing style:
+[STYLE - e.g., "Confident but approachable, witty but never silly"]
+
+Vocabulary:
+Words we use: [WORD_LIST]
+Words we avoid: [WORD_LIST]
+
+Grammar/syntax preferences:
+[GRAMMAR_NOTES]
+
+Example copy:
+"[SAMPLE_HEADLINE]"
+"[SAMPLE_BODY_COPY]"
+
+---
+
+13. BRAND EXPERIENCE
+How should people experience this brand?
+
+Sensory elements:
+- Visual: [VISUAL_EXPERIENCE]
+- Audio: [AUDIO - music, sound, voice]
+- Touch: [TACTILE - packaging, materials]
+- Smell: [SCENT - if applicable]
+- Taste: [TASTE - for food/beverage]
+
+Experiential touchpoints:
+- Product: [PRODUCT_EXPERIENCE]
+- Packaging: [PACKAGING_EXPERIENCE]
+- Retail: [RETAIL_EXPERIENCE]
+- Digital: [DIGITAL_EXPERIENCE]
+- Service: [SERVICE_EXPERIENCE]
+
+Desired emotional response:
+[EMOTION - How should people feel?]
+
+---
+
+14. INNOVATION TERRITORIES
+Where should this brand innovate?
+
+Product innovation:
+- [INNOVATION_AREA_1]
+- [INNOVATION_AREA_2]
+
+Service/experience innovation:
+- [INNOVATION_AREA_3]
+- [INNOVATION_AREA_4]
+
+White space opportunities:
+- [OPPORTUNITY_1]
+- [OPPORTUNITY_2]
+
+Innovation guardrails:
+What we should NOT do: [GUARDRAILS]
+
+---
+
+15. PARTNERSHIPS & ACTIVATIONS
+How should this brand come to life in the world?
+
+Brand partnership criteria:
+[CRITERIA - What makes a good brand partner?]
+
+Sponsorship/activation territories:
+- [TERRITORY_1]
+- [TERRITORY_2]
+- [TERRITORY_3]
+
+Cultural relevance:
+[CULTURAL_POSITIONING - What cultural movements/moments align?]
+
+---
+
+DOCUMENT CONTROL
+Brand OS Version: [VERSION]
+Last Updated: [DATE]
+Next Review: [REVIEW_DATE]
+Owner: [NAME]
+Approved by: [APPROVER]
