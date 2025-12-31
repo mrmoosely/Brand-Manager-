@@ -1,0 +1,31 @@
+# Brand Manager AI Assistant - Python Dependencies
+
+# Core AI
+anthropic>=0.39.0
+
+# Web Interface
+streamlit>=1.31.0
+
+# Data Processing
+pandas>=2.0.0
+openpyxl>=3.1.0  # Excel support
+xlrd>=2.0.1      # Legacy Excel formats
+numpy>=1.24.0
+
+# Document Processing
+python-pptx>=0.6.23  # PowerPoint generation
+python-docx>=0.8.11  # Word documents
+PyPDF2>=3.0.0        # PDF reading
+
+# Utilities
+python-dotenv>=1.0.0  # Environment variable management
+Pillow>=10.0.0        # Image processing
+requests>=2.31.0      # HTTP requests
+
+# Note: pytesseract requires tesseract-ocr system package
+# For Streamlit Cloud, add packages.txt with: tesseract-ocr
+
+# Optional: Advanced features
+# matplotlib>=3.7.0  # Chart generation
+# plotly>=5.18.0  # Interactive charts
+# reportlab>=4.0.0  # PDF generation
